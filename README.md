@@ -39,7 +39,7 @@ You will need the following components:
 
 
 
-![](TOTP_Diagram.png)
+![A diagram featuring circuitry.](Diagram.png)
 
 
 
