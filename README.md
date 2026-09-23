@@ -49,15 +49,15 @@ Once you have wired up your Arduino, you will then need to clone the repository 
 
 To install the necessary Python libraries, run: ```pip install -r requirements.txt```.
 
-To view the source code for the Arduino, open: ``TOTP_Generator.ino``.
+To view the source code for the Arduino, open: [``TOTP_Generator.ino``](TOTP_Generator.ino).
 
-To view the Python source code for the TOTP Generator, open: ``TOTP.py``. Do note that in line 10 of the code, reproduced here: 
+To view the Python source code for the TOTP Generator, open: [``TOTP.py``](TOTP.py). Do note that in line 10 of the code, reproduced here: 
 
 ``arduino = serial.Serial(port='COM6', baudrate=9600, timeout=1)``
 
 The port is set to ``COM6``. You will need to change this according to the port that your Arduino connects to on your computer.
 
-To view the Python source code for the included mock login utility, open: ``login.py``.
+To view the Python source code for the included mock login utility, open: [``login.py``](login.py).
 
 
 ### Running the project:
